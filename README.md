@@ -49,7 +49,7 @@ I decided to build a visualisation in Tableau which compared Brownlow performanc
 
 For each of the individual statistic visualisations, two filters were applied to remove significant outliers. For example, votes in the Brownlow medal are awarded on a game by game basis, meaning that a player who only played a handful of games, regardless of their performance, is limited to the amount of votes they can receive depending on how many games they played. The below image is an example of this, with no player playing less than 17 games in 2015 receiving more than 10 votes.
 
-<img width="700" alt="games played 2015 example" src="https://user-images.githubusercontent.com/82799348/166617619-f2e1a553-d7c7-4cac-b674-19a275524108.png">
+<img width="500" alt="games played 2015 example" src="https://user-images.githubusercontent.com/82799348/166617619-f2e1a553-d7c7-4cac-b674-19a275524108.png">
 
 In order to combat this, a filter with a minimum of 15 games played in each season was applied to the visualisations to further refine the results.
 
