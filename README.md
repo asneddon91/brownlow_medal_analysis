@@ -79,6 +79,10 @@ An example of the goals statistic is included below:
 
 Year on year, the best performers in the Rebound 50s statistic performed poorly in the Brownlow medal. It appeared as though this statistic has a negative correlation with the Brownlow Medal, and many of the top 10 players in the Brownlow did not appear in the top 150 of the Rebound 50 statistic year on year.
 
+An example of this is included below:
+
+![rebound 50s collage](https://user-images.githubusercontent.com/82799348/166626871-e5ab6a3a-9470-4a63-bd67-8313c512fd76.png)
+
 Lastly, team success was found to be another important contributing factor in whether a player has success in the Brownlow medal. In every year since 2012, the median points differential of players who received Brownlow votes is higher than the mean, indicating that more votes are going to players with a higher points differential than not. This is also reinforced each year by the ‘player wins’ chart, with two thirds or more of the available votes typically going to players who have played in 10 or more wins.
 
 From this, one can conclude that player performance in certain statistics such as contested possessions, clearances and disposals along with playing in a successful team gives a player a much higher chance of performing well in the Brownlow medal. Likewise, strong performance in statistics such as rebound 50s, tackles or goal assists or playing in a poorly performing team does not lead to success in the Brownlow medal.
