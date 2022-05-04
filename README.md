@@ -59,7 +59,9 @@ CONCLUSION
 
 From the analysis completed thus far, I was able to conclude that there are a number of statistical categories where strong performance typically correlates with strong Brownlow medal performance. 
 
-Contested Possessions, disposals and clearances appeared to have the strongest positive correlation with Brownlow medal success, and whilst the strength of this correlation does vary year on year, the positive association is consistent throughout. Since 2012, the player with the most Brownlow votes has finished in the top 10 players in two of the aforementioned statistics. Year on year there is a consistent overlap between the top 10 in the Brownlow medal and top 10 players in these 3 statistics with 
+Contested Possessions, disposals and clearances appeared to have the strongest positive correlation with Brownlow medal success, and whilst the strength of this correlation does vary year on year, the positive association is consistent throughout. Since 2012, the player with the most Brownlow votes has finished in the top 10 players in two of the aforementioned statistics. Year on year there is consistent overlap between the top 10 groupings in these 3 statistics.
+
+
 
 When looking at the uncontested possession and inside 50 statistics, whilst there is some positive correlation with Brownlow votes, the correlation is not as consistently strong year on year as the 3 statistics mentioned previously. The overlap between the top 10 groupings is limited.
 
