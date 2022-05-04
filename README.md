@@ -33,7 +33,7 @@ This initial visualising of the data more or less confirmed what the initial SQL
 
 There were, however, a number of outliers in the key stat categories. For example, Players who performed quite well in the disposals statistic but poorly in the Brownlow medal. I decided to explore why this was the case, to understand if there were any other factors that may have contributed to their lack of votes.
 
-In particular, I reviewed two outliers from the 2012 disposals worksheet highlighted below. 
+An example of two outliers that I analysed further from the 2012 disposals worksheet are highlighted below. 
 
 ![tg:mb 2012 highlighted](https://user-images.githubusercontent.com/82799348/166617156-39b0d436-6455-4d78-8040-94536d460683.png)
 
