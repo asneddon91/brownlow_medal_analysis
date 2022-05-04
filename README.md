@@ -67,7 +67,7 @@ An example of the disposals positive correlation is below:
 
 ![disposals collage](https://user-images.githubusercontent.com/82799348/166624688-9692c9d3-4742-4e84-a8f6-d376b8f7d3cc.png)
 
-When looking at the uncontested possession and inside 50 statistics, whilst there is some positive correlation with Brownlow votes, the correlation is not as consistently strong year on year as the 3 statistics mentioned previously. There is still consistent overlap between the top 10 groupings, however the correlation of the statistic as a whole is typically weaker.
+When looking at the uncontested possession and inside 50 statistics, whilst there is some positive correlation with Brownlow votes, the correlation is not as consistently strong year on year as the 3 statistics mentioned previously. There is still consistent overlap between the top 10 groupings, however the positive correlation of the statistic with Brownlow votes is typically weaker.
 
 An example of the inside 50s statistic is below:
 
