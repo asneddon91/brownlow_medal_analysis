@@ -45,4 +45,35 @@ I decided to dig deeper into the performance of the teams that these players rep
 
 ![points diff tg:mb 2012](https://user-images.githubusercontent.com/82799348/166617217-aad7e5e4-a4db-4b4d-a99f-a0c884f9a3ef.png)
 
+I decided to build a visualisation in Tableau which compared Brownlow performance with total wins and average margin. It was clear from this process that team performance was another important factor in an individual players Brownlow medal performance.
+
+For each of the individual statistic visualisations, two filters were applied to remove significant outliers. For example, votes in the Brownlow medal are awarded on a game by game basis, meaning that a player who only played a handful of games, regardless of their performance, is limited to the amount of votes they can receive depending on how many games they played. The below image is an example of this, with no player playing less than 17 games in 2015 receiving more than 10 votes.
+
+<img width="894" alt="games played 2015 example" src="https://user-images.githubusercontent.com/82799348/166617619-f2e1a553-d7c7-4cac-b674-19a275524108.png">
+
+In order to combat this, a filter with a minimum of 15 games played in each season was applied to the visualisations to further refine the results.
+
+Additionally, the top 150 performers in each statistic by their yearly averages are included in each visualisation. The idea being that in order to determine whether a strong performance in a certain statistic positively correlated with performance in the Brownlow medal, the best performers from that statistic should be the group analysed.
+
+CONCLUSION
+
+From the analysis completed thus far, I was able to conclude that there are a number of statistical categories where strong performance typically correlates with strong Brownlow medal performance. 
+
+Contested Possessions, disposals and clearances appeared to have the strongest positive correlation with Brownlow medal success, and whilst the strength of this correlation does vary year on year, the positive association is consistent throughout. Since 2012, the player with the most Brownlow votes has finished in the top 10 players in two of the aforementioned statistics. Year on year there is a consistent overlap between the top 10 in the Brownlow medal and top 10 players in these 3 statistics with 
+
+When looking at the uncontested possession and inside 50 statistics, whilst there is some positive correlation with Brownlow votes, the correlation is not as consistently strong year on year as the 3 statistics mentioned previously. The overlap between the top 10 groupings is limited.
+
+It’s clear from the views created for tackles, goals, and goal assists that they have little to no influence on getting Brownlow Medal votes. Whilst there is the odd outlier some years, these statistics are typically characterised by a lack of positive correlation with success in the Brownlow medal. The cross-over between the top 10 groupings is negligible, or in some cases, non-existent. 
+
+Year on year, the best performers in the Rebound 50s statistic performed poorly in the Brownlow medal. It appeared as though this statistic has a negative correlation with the Brownlow Medal, and many of the top 10 players in the Brownlow did not appear in the top 150 of the Rebound 50 statistic year on year.
+
+Lastly, team success was found to be another important contributing factor in whether a player has success in the Brownlow medal. In every year since 2012, the median points differential of players who received Brownlow votes is higher than the mean, indicating that more votes are going to players with a higher points differential than not. This is also reinforced each year by the ‘player wins’ chart, with two thirds or more of the available votes typically going to players who have played in 10 or more wins.
+
+From this, one can conclude that player performance in certain statistics such as contested possessions, clearances and disposals along with playing in a successful team gives a player a much higher chance of performing well in the Brownlow medal. Likewise, strong performance in statistics such as rebound 50s, tackles or goal assists or playing in a poorly performing team does not lead to success in the Brownlow medal.
+
+FURTHER ANALYSIS
+
+I intend to analyse further the individual games where players have received or not received votes and identify any specific trends that may have lead to the votes being awarded or not. For example, a player may have outperformed their AVG contested possessions in a game where they received Brownlow votes, or missed out on votes performing well in a game where their team lost by a significant margin.
+
+I also am planning to explore further the rebound 50 statistic, to get a greater understanding of why it appears to have a negative correlation with Brownlow medal votes. For example, investigating who the players are that are performing well in this statistic, whether they are playing in losing teams and their performance in other statistical categories that correlate positively with Brownlow votes.
 
