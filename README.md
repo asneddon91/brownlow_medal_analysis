@@ -67,6 +67,10 @@ An example of the disposals positive correlation is below:
 
 When looking at the uncontested possession and inside 50 statistics, whilst there is some positive correlation with Brownlow votes, the correlation is not as consistently strong year on year as the 3 statistics mentioned previously. The overlap between the top 10 groupings is limited.
 
+An example of the inside 50s statistic is below:
+
+![in50 collage](https://user-images.githubusercontent.com/82799348/166625434-98a38eb2-8ed4-4eec-9719-bb44b2d0b8db.png)
+
 It’s clear from the views created for tackles, goals, and goal assists that they have little to no influence on getting Brownlow Medal votes. Whilst there is the odd outlier some years, these statistics are typically characterised by a lack of positive correlation with success in the Brownlow medal. The cross-over between the top 10 groupings is negligible, or in some cases, non-existent. 
 
 Year on year, the best performers in the Rebound 50s statistic performed poorly in the Brownlow medal. It appeared as though this statistic has a negative correlation with the Brownlow Medal, and many of the top 10 players in the Brownlow did not appear in the top 150 of the Rebound 50 statistic year on year.
