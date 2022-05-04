@@ -73,6 +73,10 @@ An example of the inside 50s statistic is below:
 
 It’s clear from the views created for tackles, goals, and goal assists that they have little to no influence on getting Brownlow Medal votes. Whilst there is the odd outlier some years, these statistics are typically characterised by a lack of positive correlation with success in the Brownlow medal. The cross-over between the top 10 groupings is negligible, or in some cases, non-existent. 
 
+An example of the goals statistic is included below:
+
+![goals collage](https://user-images.githubusercontent.com/82799348/166625968-e2c41992-745f-4162-879a-96db45cdf6e4.png)
+
 Year on year, the best performers in the Rebound 50s statistic performed poorly in the Brownlow medal. It appeared as though this statistic has a negative correlation with the Brownlow Medal, and many of the top 10 players in the Brownlow did not appear in the top 150 of the Rebound 50 statistic year on year.
 
 Lastly, team success was found to be another important contributing factor in whether a player has success in the Brownlow medal. In every year since 2012, the median points differential of players who received Brownlow votes is higher than the mean, indicating that more votes are going to players with a higher points differential than not. This is also reinforced each year by the ‘player wins’ chart, with two thirds or more of the available votes typically going to players who have played in 10 or more wins.
