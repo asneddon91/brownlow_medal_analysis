@@ -17,3 +17,32 @@ Using this query, I created new table with the Brownlow winners information. Usi
 
 ![brownlow disposal comparision](https://user-images.githubusercontent.com/82799348/166616998-b41223a5-248b-4ea8-8b93-084ae7c6fe73.png)
 
+Once the initial query structure was set up, I was able to add other player statistics to the table by mirroring the existing design and making the changes as needed for the new statistics category. The resulting table is available in the files as brownlow_master_comparison.csv and the final SQL query is available as brownlow_master_comparision_query.
+
+From this initial exploration, I was able to discover that the Brownlow medalist consistently ranks in the top 10 in disposals, clearances and contested possession statistics. The Brownlow medalist rank was also typically quite high in the in50 and uncontested possession stats, although with some variance, whilst rankings in some stats such as goals and tackles appeared to have very little influence on the Brownlow medalist at all.
+
+VISUALISING THE DATA
+
+With this information in mind, I decided to move my analysis to Tableau in order to demonstrate the relationship between the statistics and Brownlow success visually.
+
+I decided to make a scatterplot for each statistic, with the total Brownlow Votes on the y-axis, and the statistic on the x-axis. In order to visually demonstrate the overlap between the two axis, I added a shaded area to indicate which players finished in the Top 10 for either or both categories.
+
+After completing the visualisations I was able to identify some trends in the data and recognise in which categories strong performance correlated with success in the Brownlow Medal. Originally, the visualisations were saved on Tableau Public with the statistics grouped by year. I decided to change this to a ‘year on year’ view in the key stats, in order to demonstrate the YoY trends in each statistic more clearly.
+
+This initial visualising of the data more or less confirmed what the initial SQL query appeared to show; that the top performers in statistics such as contested possessions & disposals typically are the higher performers in the Brownlow medal, whilst strong performance in statistics such as rebound 50s and goals appear to have little to no positive correlation with Brownlow medal performance at all.
+
+There were, however, a number of outliers in the key stat categories. For example, Players who performed quite well in the disposals statistic but poorly in the Brownlow medal. I decided to explore why this was the case, to understand if there were any other factors that may have contributed to their lack of votes.
+
+In particular, I reviewed two outliers from the 2012 disposals worksheet highlighted below. 
+
+![tg:mb 2012 highlighted](https://user-images.githubusercontent.com/82799348/166617156-39b0d436-6455-4d78-8040-94536d460683.png)
+
+Using SQL, I was able to determine that both of these players ranked highly in other statistics whilst still performing poorly in the Brownlow medal as per the below table.
+
+![sql tg:mb 2012](https://user-images.githubusercontent.com/82799348/166617187-d33c9518-1a1b-4ca4-adbc-890f58914b8f.png)
+
+I decided to dig deeper into the performance of the teams that these players represented, as individually their statistical performance is similar to other players who received many more votes than they did. Using the below query I was able to determine that both of these players were involved in games where they were consistently in the losing team, and usually by a large margin.
+
+![points diff tg:mb 2012](https://user-images.githubusercontent.com/82799348/166617217-aad7e5e4-a4db-4b4d-a99f-a0c884f9a3ef.png)
+
+
