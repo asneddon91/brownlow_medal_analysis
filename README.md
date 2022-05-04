@@ -57,6 +57,8 @@ Additionally, the top 150 performers in each statistic by their yearly averages 
 
 CONCLUSION
 
+The completed visualisations are available at the following link: https://public.tableau.com/app/profile/alex.sneddon
+
 From the analysis completed thus far, I was able to conclude that there are a number of statistical categories where strong performance typically correlates with strong Brownlow medal performance. 
 
 Contested Possessions, disposals and clearances appeared to have the strongest positive correlation with Brownlow medal success, and whilst the strength of this correlation does vary year on year, the positive association is consistent throughout. Since 2012, the player with the most Brownlow votes has finished in the top 10 players in two of the aforementioned statistics. Year on year there is consistent overlap between the top 10 groupings in these 3 statistics.
