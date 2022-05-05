@@ -11,7 +11,7 @@ I decided to begin by reviewing the statistical performance of the Brownlow meda
 
 <img width="775" alt="brownlow winners query" src="https://user-images.githubusercontent.com/82799348/166616865-48f03358-aefd-424b-803b-52117d30b7b7.png">
 
-Using this query, I created new table with the Brownlow winners information. Using this table, I built a query to find the AVG number of disposals by the player in their Brownlow medal winning year and how that compared with the AVG number of disposals by the top 50 ranked players by disposal AVG from that same season. I was able to include the difference between these two AVGs, as well as the rank of the Brownlow winning player in the AVG disposal category for that year. The query and resulting table are included below:
+Using this query, I created a new table with the Brownlow winners information. Using this table, I built a query to find the AVG number of disposals by the player in their Brownlow medal winning year and how that compared with the AVG number of disposals by the top 50 ranked players by disposal AVG from that same season. I was able to include the difference between these two AVGs, as well as the rank of the Brownlow winning player in the AVG disposal category for that year. The query and resulting table are included below:
 
 <img width="1128" alt="brownlow disposal comparision sql " src="https://user-images.githubusercontent.com/82799348/166616942-341a312f-64bc-4cb4-8080-932594909155.png">
 
@@ -19,7 +19,7 @@ Using this query, I created new table with the Brownlow winners information. Usi
 
 Once the initial query structure was set up, I was able to add other player statistics to the table by mirroring the existing design and making the changes as needed for the new statistics category. The resulting table is available in the files as brownlow_master_comparison.csv and the final SQL query is available as brownlow_master_comparision_query.
 
-From this initial exploration, I was able to discover that the Brownlow medalist consistently ranks in the top 10 in disposals, clearances and contested possession statistics. The Brownlow medalist rank was also typically quite high in the in50 and uncontested possession stats, although with some variance, whilst rankings in some stats such as goals and tackles appeared to have very little influence on the Brownlow medalist at all.
+From this initial exploration, I was able to discover that the Brownlow medalist consistently ranks in the top 10 in disposals, clearances and contested possession statistics. The Brownlow medalist rank was also typically quite high in the inside 50s and uncontested possession stats, although with some variance, whilst rankings in some stats such as goals and tackles appeared to have very little influence on the Brownlow medalist at all.
 
 VISUALISING THE DATA
 
@@ -85,7 +85,7 @@ An example of this is included below:
 
 ![rebound 50s collage](https://user-images.githubusercontent.com/82799348/166626871-e5ab6a3a-9470-4a63-bd67-8313c512fd76.png)
 
-Lastly, team success was found to be another important contributing factor in whether a player has success in the Brownlow medal. In every year since 2012, the median points differential of players who received Brownlow votes is higher than the mean, indicating that more votes are going to players with a higher points differential than not. This is also reinforced each year by the ‘player wins’ chart, with two thirds or more of the available votes typically going to players who have played in 10 or more wins.
+Lastly, team success was found to be another important contributing factor in whether a player has success in the Brownlow medal. In every year since 2012, the median points differential of players who received Brownlow votes is higher than the mean, indicating that more votes are awarded to players with a higher points differential than not. This is also reinforced each year by the ‘player wins’ chart, with two thirds or more of the available votes typically going to players who have played in 10 or more wins.
 
 From this, one can conclude that player performance in certain statistics such as contested possessions, clearances and disposals along with playing in a successful team gives a player a much higher chance of performing well in the Brownlow medal. Likewise, strong performance in statistics such as rebound 50s, tackles or goal assists or playing in a poorly performing team does not lead to success in the Brownlow medal.
 
